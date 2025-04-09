@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    background-color: skyblue;
+    border-radius: 18px;
+    padding: 5px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 32px;
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+    background-color: lightgrey;
+    padding: 20px;
+    border: 1px solid lightseagreen;
+    border-radius: 70px;
+    border-style: groove;
+}
+
+#content {
+    text-align: center;
+    background-color: lightgrey;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 70px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+    font-weight: bold;
+    display: block; 
+    text-align: center; 
+    background-color: green; 
+    color: black; 
+    border: 1px solid; 
+    padding: 12px 20px; 
+    border-radius: 15px; 
+    font-family: "Courier New", Courier, monospace; 
+    transition: all 0.5s ease;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+    background-color: orange; 
+    color: blue;
+}

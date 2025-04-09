@@ -1,0 +1,19 @@
+.box {
+    margin: 300px 300px 300px 300px;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 15px; 
+    background-color: lightblue; 
+    width: 350px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: darkblue;
+}
+
+p {
+    font-size: 16px;
+    color: darkslategray;
+}
